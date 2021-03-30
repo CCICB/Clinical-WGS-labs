@@ -1,6 +1,6 @@
-# Clinical-WGS-laboratory-database
+# Clinical-WGS-labs database
 
-This is a resource to keep track of the growing number of laboratories offering clinical whole genome sequencing. 
+This is a resource to keep track of the growing number of laboratories offering clinical whole genome sequencing. These are generally through ISO15189 clincial accreditaiton, or offered by laboratatories with CLIA/CAP accreditation.
 
 A/Prof Mark Cowley
 Children's Cancer Institute
