@@ -1,6 +1,10 @@
 # Clinical-WGS-laboratory-database
 
-This is a resource to keep track of the growing number of laboratories offering clinical whole genome sequencing. Last updated 29th March, 2021.
+This is a resource to keep track of the growing number of laboratories offering clinical whole genome sequencing. 
+
+A/Prof Mark Cowley
+Children's Cancer Institute
+Last updated 29th March, 2021.
 
 | County    | Laboratory                                                                                                                 | Offering                                                                          | Date Launched                                                                                                                                                                   | Current? |
 |-----------|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
